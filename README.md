@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NefytZ</h1>
-<h3 align="center">I am a young full stack web developer in training. :) - Wild Code School 2022 - PHP - SYMFONY - MySQL - JS - CSS - HTML</h3>
+<h3 align="center">Dev web en formation. :) - Wild Code School 2022 - PHP - SYMFONY - MySQL - JS - CSS - HTML</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
