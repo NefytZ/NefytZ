@@ -1,6 +1,6 @@
 # <h5 align="center">💫 À propos de moi ?</h5> 
 
-<div align="center">[![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in)</div> 
+<div align="center">[ ![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in) </div> 
 
 🔭 <strong>Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React</strong>
 
