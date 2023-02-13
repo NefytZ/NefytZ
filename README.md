@@ -1,4 +1,4 @@
-# 💫 À propos de moi ? [![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in) 
+# 💫 À propos de moi ? <div align="end">[![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in)</div>
 
 🔭 <strong>Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React</strong>
 
