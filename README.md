@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm NefytZ</h1>
-<h3 align="center">Dev web en formation. :) - Wild Code School 2022 - PHP - SYMFONY - MySQL - JS - CSS - HTML</h3>
+# 💫 About Me:
+🔭 Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
