@@ -1,6 +1,6 @@
 # 💫 À propos de moi ?
 
-🔭 Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React
+🔭 <strong>Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React</strong>
 
 [![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in)
 
