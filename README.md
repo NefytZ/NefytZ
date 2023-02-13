@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Dev web en formation. :) - Wild Code School 2022-2023 PHP - Specialisation JS-React
 
+[![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thyphen-m-ba0451226/) 
@@ -13,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NefytZ&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NefytZ&icon=5&color=9)](https://visitcount.itsvg.in)
